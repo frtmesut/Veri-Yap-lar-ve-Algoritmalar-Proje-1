@@ -1,1 +1,1 @@
-# Veri-Yap-lar-ve-Algoritmalar-Proje-1
+# Veri-Yapilari-ve-Algoritmalar-Proje-1
